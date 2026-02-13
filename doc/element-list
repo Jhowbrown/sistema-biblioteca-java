@@ -1,0 +1,7 @@
+module:SalaLeitura
+salaleitura.app
+salaleitura.controller
+salaleitura.model
+salaleitura.persistence
+salaleitura.service
+salaleitura.view

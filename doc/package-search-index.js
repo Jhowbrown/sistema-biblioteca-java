@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"SalaLeitura","l":"salaleitura.app"},{"m":"SalaLeitura","l":"salaleitura.controller"},{"m":"SalaLeitura","l":"salaleitura.model"},{"m":"SalaLeitura","l":"salaleitura.persistence"},{"m":"SalaLeitura","l":"salaleitura.service"},{"m":"SalaLeitura","l":"salaleitura.view"}];updateSearchResults();
